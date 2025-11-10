@@ -1,1 +1,1 @@
-# 基于多维度提示学习的实体关系抽取方法(A Multidimensional Prompt-Learning Method for Entity Relationship Extraction, MDPL-RE)
+#  Prompt, Fuse, Fill: A Multi-dimensional Prompt-based Framework for Few-shot Relation Extraction
